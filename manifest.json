@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "No Accent",
+  "theme": {
+    "colors": {
+      "toolbar": "rgb(0, 0, 0)",
+      "toolbar_text": "rgb(170, 170, 170)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(153, 153, 153)",
+      "toolbar_field": "rgb(0, 0, 0)",
+      "toolbar_field_text": "rgb(187, 187, 187)",
+      "tab_line": "rgb(170, 170, 170)",
+      "popup": "rgb(0, 0, 0)",
+      "popup_text": "rgb(170, 170, 170)",
+      "tab_loading": "rgb(170, 170, 170)",
+      "ntp_background": "rgb(0, 0, 0)",
+      "ntp_text": "rgb(187, 187, 187)"
+    }
+  }
+}
